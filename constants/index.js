@@ -1,4 +1,4 @@
-const navLinks = [
+const navLinks = [	
  {
 	id: "cocktails",
 	title: "Cocktails",
